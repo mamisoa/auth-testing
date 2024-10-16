@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "14.2.15",
-    "next-auth": "^5.0.0-beta.22",
+    "next": "latest",
+    "next-auth": "beta",
     "react": "^18",
     "react-dom": "^18"
   },
